@@ -1,1 +1,3 @@
 Some data has been added into File 2
+
+Some code is added in File 2
